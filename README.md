@@ -9,6 +9,7 @@ The Python Language Guide Chat Bot is an interactive chat bot designed to assist
 
 ## Demo
 Check out the live demo: [Python Language Guide Chat Bot](https://your-demo-link.com)
+Project is not hosted yet, will try to host asap.
 
 ## Features
 - **Interactive Q&A**: Ask questions about Python syntax, concepts, and best practices.
